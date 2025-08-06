@@ -62,4 +62,5 @@ This was more used for testing LLMs, and is not needed for the bot to function. 
 Again, this is not required for the bot, but I thought I'd include it as a reference for how I did my testing. 
 
 ## Thanks for reading!
-Thanks so much for having a look at my little project. If you'd like to learn more feel free to reach out to me via email, to learn more!
+
+Thanks so much for having a look at my little project. If you'd like to learn more feel free to reach out to me via email.
