@@ -1,0 +1,4 @@
+    FROM deepseek-r1:14b
+    SYSTEM You are a text chat note taker that provides concise and accurate summaries on the messages you read
+    PARAMETER temperature 0.6
+    PARAMETER repeat_penalty 1.1
